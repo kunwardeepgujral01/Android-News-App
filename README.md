@@ -62,6 +62,9 @@ I created my  [News API](https://newsapi.org/) key from this link and it provide
 - Open any news in webview
 - Easy to use UI
 
+## Screenshots
+
+###### Splash Screen and Home Screen <img src="https://github.com/kunwardeepgujral01/Android-News-App/blob/master/Splash_Screen.png" width="30%"><img src="https://github.com/kunwardeepgujral01/Android-News-App/blob/master/Home_Screen.png" width="30%">
 
 ## Feedback
 
@@ -69,3 +72,5 @@ If you have any feedback, please reach out to me at kunwardeepgujral000@gmail.co
 
 
 If you find a bug or think something could be better, please file an issue! If you think a code change should be made, feel free to raise a PR.
+
+  
